@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cloud Native technologies**
 
-- 📫 How to reach me **pm1784@srmist.edu.in**
+- 📫 How to reach me **panyaviz04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
