@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panya03" alt="panya03" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs and Blockchain twchnologies**
+- 🌱 I’m currently learning **Cloud Native technologies**
 
 - 📫 How to reach me **pm1784@srmist.edu.in**
 
