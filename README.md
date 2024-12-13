@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 About Me:<br>🌌 What I'm currently coding:<br>Making web apps snazzy and sustainable one project at a time.<br><br>🤝 Looking to team up on:<br>Projects that make people go “Whoa, how’d they do that?”<br><br>🔍 What I could use help with:<br>Turning caffeine into 100% bug-free code (any takers?) and Kubernetes wizardry.<br><br>🌱 Learning binge:<br>Machine Learning and NextJS, and maybe how to handle Linux without sweating.<br><br>💬 Ask me about:<br>Anything  🌱<br>Building REST APIs like a pro ⚙️<br>
 
 
